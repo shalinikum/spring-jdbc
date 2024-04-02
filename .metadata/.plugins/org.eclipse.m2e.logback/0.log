@@ -1,0 +1,34 @@
+2024-04-02 15:38:12,930 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-02 15:48:22,478 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-02 15:53:06,401 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:AOP:0.0.1-SNAPSHOT @ C:\Users\shali\Documents\spring-project\AOP\pom.xml.
+2024-04-02 15:53:07,338 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/learn-spring: com.example.spring:learn-spring:0.0.1-SNAPSHOT with classifier  to /learn-spring/target/classes
+2024-04-02 15:53:07,565 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.spring:learn-spring:0.0.1-SNAPSHOT @ C:\Users\shali\Documents\spring-project\learn-spring\pom.xml.
+2024-04-02 15:53:07,944 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:AOP:0.0.1-SNAPSHOT @ C:\Users\shali\Documents\spring-project\AOP\pom.xml.
+2024-04-02 15:53:08,099 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/learn-spring: com.example.spring:learn-spring:0.0.1-SNAPSHOT with classifier  to /learn-spring/target/classes
+2024-04-02 15:53:10,727 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learn-spring/src/main/java
+2024-04-02 15:53:10,741 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learn-spring/src/main/resources
+2024-04-02 15:53:11,240 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learn-spring/src/main/resources
+2024-04-02 15:53:11,248 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learn-spring/src/test/java
+2024-04-02 15:53:11,254 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learn-spring/src/test/resources
+2024-04-02 15:53:11,955 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AOP/src/main/java
+2024-04-02 15:53:11,957 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AOP/src/main/resources
+2024-04-02 15:53:11,958 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AOP/src/main/resources
+2024-04-02 15:53:11,959 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AOP/src/test/java
+2024-04-02 15:53:11,960 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AOP/src/test/resources
+2024-04-02 15:53:12,182 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 10 sec
+2024-04-02 15:53:21,953 [Worker-37: Auto share git projects] WARN  org.eclipse.jgit.util.FS - Cannot run program "\usr\bin\git" (in directory "\usr\bin"): CreateProcess error=2, The system cannot find the file specified
+2024-04-02 15:53:22,209 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-02 15:53:23,366 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:AOP:0.0.1-SNAPSHOT @ C:\Users\shali\Documents\spring-project\AOP\pom.xml.
+2024-04-02 15:53:24,277 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/learn-spring: com.example.spring:learn-spring:0.0.1-SNAPSHOT with classifier  to /learn-spring/target/classes
+2024-04-02 15:53:24,779 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AOP/src/main/java
+2024-04-02 15:53:24,781 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AOP/src/main/resources
+2024-04-02 15:53:24,783 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AOP/src/main/resources
+2024-04-02 15:53:24,785 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AOP/src/test/java
+2024-04-02 15:53:24,786 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AOP/src/test/resources
+2024-04-02 15:53:25,932 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2024-04-02 15:53:27,158 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-02 15:53:27,184 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-02 15:53:27,192 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shali\Documents\spring-project\learn-spring\src\test\resources
+2024-04-02 15:53:28,350 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-02 15:53:28,375 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-02 15:53:28,383 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shali\Documents\spring-project\AOP\src\test\resources
